@@ -1,4 +1,4 @@
-# BIIM3210 Assignment 2 – JavaFX Media Player
+#  Assignment 2 – JavaFX Media Player
 
 ## 1. Project Overview
 
